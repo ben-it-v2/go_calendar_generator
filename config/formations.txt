@@ -1,0 +1,13 @@
+MUM#Manager d'Unité Marchande
+CPEB#Chef de Projet E-Business
+CC#Conseiller Commercial
+MA#Manage d'Affaires
+CUI#Cuisinier
+SER#Serveur en Restauration
+AMUM#Assistant Manager d'Unité Marchande
+CV#Conseil de Vente
+NTC#Négociateur Technico Commercial
+AR#Agent de Restauration
+EC#Employé Commercial
+AC#Assistant Commercial
+RH#Réceptionniste en Hotellerie
